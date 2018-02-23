@@ -1,5 +1,5 @@
 {
-  "name": "toy-cli",
+  "name": "bdd-e2e-cli",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
